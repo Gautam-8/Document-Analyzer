@@ -1,0 +1,352 @@
+{
+  "documents": {
+    "1": {
+      "id": "1",
+      "title": "The Future of Artificial Intelligence",
+      "content": "Artificial intelligence is revolutionizing every aspect of our lives. From healthcare to transportation, AI systems are becoming increasingly sophisticated and capable. Machine learning algorithms can now process vast amounts of data to identify patterns that humans might miss. However, with great power comes great responsibility, and we must ensure that AI development remains ethical and beneficial for all humanity.",
+      "author": "Dr. Sarah Chen",
+      "category": "Technology",
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Ethics",
+        "Future"
+      ],
+      "created_at": "2025-07-03T23:13:54.682511",
+      "word_count": 59,
+      "character_count": 420
+    },
+    "2": {
+      "id": "2",
+      "title": "Climate Change and Global Warming",
+      "content": "Climate change represents one of the most pressing challenges of our time. Rising global temperatures are causing ice caps to melt, sea levels to rise, and weather patterns to become increasingly unpredictable. The scientific consensus is clear: human activities, particularly the burning of fossil fuels, are the primary drivers of this crisis. Immediate action is required to reduce greenhouse gas emissions and transition to renewable energy sources.",
+      "author": "Prof. Michael Rodriguez",
+      "category": "Environment",
+      "tags": [
+        "Climate Change",
+        "Global Warming",
+        "Environment",
+        "Sustainability"
+      ],
+      "created_at": "2025-07-03T23:13:54.682549",
+      "word_count": 67,
+      "character_count": 453
+    },
+    "3": {
+      "id": "3",
+      "title": "The Benefits of Regular Exercise",
+      "content": "Regular physical exercise is essential for maintaining good health and well-being. Exercise strengthens the cardiovascular system, builds muscle mass, and improves mental health by releasing endorphins. Studies have shown that people who exercise regularly have lower rates of depression, anxiety, and chronic diseases. Even moderate exercise, such as a 30-minute walk daily, can provide significant health benefits.",
+      "author": "Dr. Lisa Thompson",
+      "category": "Health",
+      "tags": [
+        "Exercise",
+        "Health",
+        "Wellness",
+        "Fitness"
+      ],
+      "created_at": "2025-07-03T23:13:54.682558",
+      "word_count": 57,
+      "character_count": 416
+    },
+    "4": {
+      "id": "4",
+      "title": "The History of Space Exploration",
+      "content": "Space exploration has captured human imagination for decades. From the first satellite launch in 1957 to the moon landing in 1969, humanity has made remarkable strides in understanding our universe. Today, private companies like SpaceX are making space travel more accessible, while NASA continues to push the boundaries of what's possible with missions to Mars and beyond. The future of space exploration looks brighter than ever.",
+      "author": "Captain James Wilson",
+      "category": "Science",
+      "tags": [
+        "Space",
+        "Exploration",
+        "NASA",
+        "History"
+      ],
+      "created_at": "2025-07-03T23:13:54.682564",
+      "word_count": 66,
+      "character_count": 431
+    },
+    "5": {
+      "id": "5",
+      "title": "The Art of Cooking",
+      "content": "Cooking is both an art and a science. It requires creativity, patience, and understanding of how ingredients interact with each other. A good cook knows how to balance flavors, textures, and temperatures to create memorable dishes. Cooking at home not only saves money but also allows for better control over nutrition and ingredients. The joy of sharing a home-cooked meal with family and friends is incomparable.",
+      "author": "Chef Maria Garcia",
+      "category": "Food",
+      "tags": [
+        "Cooking",
+        "Food",
+        "Nutrition",
+        "Family"
+      ],
+      "created_at": "2025-07-03T23:13:54.682570",
+      "word_count": 66,
+      "character_count": 414
+    },
+    "6": {
+      "id": "6",
+      "title": "The Impact of Social Media",
+      "content": "Social media has fundamentally changed how we communicate and share information. Platforms like Facebook, Twitter, and Instagram have connected billions of people worldwide, enabling instant communication and global awareness. However, social media also presents challenges, including privacy concerns, misinformation, and mental health impacts. It's important to use these platforms mindfully and critically evaluate the information we encounter.",
+      "author": "Dr. Amanda Lee",
+      "category": "Technology",
+      "tags": [
+        "Social Media",
+        "Communication",
+        "Privacy",
+        "Mental Health"
+      ],
+      "created_at": "2025-07-03T23:13:54.682576",
+      "word_count": 57,
+      "character_count": 447
+    },
+    "7": {
+      "id": "7",
+      "title": "Sustainable Living Practices",
+      "content": "Sustainable living involves making choices that reduce our environmental impact. This includes reducing waste, conserving energy, using renewable resources, and supporting eco-friendly products. Simple changes like using reusable bags, composting organic waste, and choosing public transportation can make a significant difference. Sustainable living is not about perfection but about making conscious choices that benefit both ourselves and the planet.",
+      "author": "Emma Johnson",
+      "category": "Environment",
+      "tags": [
+        "Sustainability",
+        "Environment",
+        "Green Living",
+        "Conservation"
+      ],
+      "created_at": "2025-07-03T23:13:54.682581",
+      "word_count": 59,
+      "character_count": 453
+    },
+    "8": {
+      "id": "8",
+      "title": "The Power of Reading",
+      "content": "Reading is one of the most powerful tools for personal growth and learning. Books transport us to different worlds, introduce us to new ideas, and help us understand diverse perspectives. Reading regularly improves vocabulary, enhances critical thinking skills, and reduces stress. In our digital age, it's important to maintain the habit of reading books, whether physical or digital, to continue expanding our knowledge and imagination.",
+      "author": "Professor Robert Davis",
+      "category": "Education",
+      "tags": [
+        "Reading",
+        "Education",
+        "Learning",
+        "Books"
+      ],
+      "created_at": "2025-07-03T23:13:54.682586",
+      "word_count": 65,
+      "character_count": 438
+    },
+    "9": {
+      "id": "9",
+      "title": "Financial Planning for Young Adults",
+      "content": "Financial planning is crucial for young adults starting their careers. Creating a budget, building an emergency fund, and starting to save for retirement early can set the foundation for financial security. Understanding concepts like compound interest, investment diversification, and risk management is essential. While it may seem overwhelming at first, developing good financial habits early in life pays dividends in the long run.",
+      "author": "Financial Advisor John Smith",
+      "category": "Finance",
+      "tags": [
+        "Finance",
+        "Planning",
+        "Investment",
+        "Savings"
+      ],
+      "created_at": "2025-07-03T23:13:54.682591",
+      "word_count": 63,
+      "character_count": 435
+    },
+    "10": {
+      "id": "10",
+      "title": "The Importance of Mental Health",
+      "content": "Mental health is just as important as physical health, yet it's often overlooked or stigmatized. Depression, anxiety, and other mental health conditions are common and treatable. Seeking help from mental health professionals, practicing self-care, and maintaining social connections are all important for psychological well-being. Society must continue to work toward reducing stigma and improving access to mental health resources.",
+      "author": "Dr. Patricia Brown",
+      "category": "Health",
+      "tags": [
+        "Mental Health",
+        "Psychology",
+        "Wellness",
+        "Self-care"
+      ],
+      "created_at": "2025-07-03T23:13:54.682595",
+      "word_count": 59,
+      "character_count": 432
+    },
+    "11": {
+      "id": "11",
+      "title": "The Evolution of Music",
+      "content": "Music has evolved dramatically throughout human history. From classical compositions to jazz, rock, hip-hop, and electronic music, each genre reflects the culture and technology of its time. Digital technology has revolutionized music production and distribution, making it easier for artists to create and share their work. Music remains a universal language that brings people together across cultural and linguistic boundaries.",
+      "author": "Music Historian Dr. Kevin White",
+      "category": "Arts",
+      "tags": [
+        "Music",
+        "History",
+        "Culture",
+        "Technology"
+      ],
+      "created_at": "2025-07-03T23:13:54.682602",
+      "word_count": 60,
+      "character_count": 430
+    },
+    "12": {
+      "id": "12",
+      "title": "Urban Planning and Smart Cities",
+      "content": "Urban planning is becoming increasingly important as more people move to cities. Smart cities use technology to improve efficiency, sustainability, and quality of life for residents. This includes smart traffic systems, energy-efficient buildings, and digital services for citizens. Good urban planning considers transportation, housing, green spaces, and community needs to create livable, sustainable urban environments.",
+      "author": "Urban Planner Sarah Kim",
+      "category": "Urban Development",
+      "tags": [
+        "Urban Planning",
+        "Smart Cities",
+        "Technology",
+        "Sustainability"
+      ],
+      "created_at": "2025-07-03T23:13:54.682607",
+      "word_count": 55,
+      "character_count": 422
+    },
+    "13": {
+      "id": "13",
+      "title": "The Science of Sleep",
+      "content": "Sleep is essential for physical and mental health. During sleep, our bodies repair themselves, consolidate memories, and prepare for the next day. Poor sleep quality is linked to numerous health problems, including obesity, diabetes, and cardiovascular disease. Good sleep hygiene includes maintaining a consistent sleep schedule, creating a comfortable sleep environment, and avoiding screens before bedtime. Adults should aim for 7-9 hours of quality sleep per night.",
+      "author": "Sleep Specialist Dr. Rachel Green",
+      "category": "Health",
+      "tags": [
+        "Sleep",
+        "Health",
+        "Wellness",
+        "Science"
+      ],
+      "created_at": "2025-07-03T23:13:54.682611",
+      "word_count": 67,
+      "character_count": 469
+    },
+    "14": {
+      "id": "14",
+      "title": "The Future of Work",
+      "content": "The nature of work is changing rapidly due to technological advances and shifting social expectations. Remote work, automation, and the gig economy are reshaping traditional employment models. Workers need to continuously update their skills to remain relevant in the evolving job market. The future of work will likely involve more flexibility, collaboration, and emphasis on creativity and problem-solving skills.",
+      "author": "HR Expert Jennifer Martinez",
+      "category": "Business",
+      "tags": [
+        "Future of Work",
+        "Technology",
+        "Employment",
+        "Skills"
+      ],
+      "created_at": "2025-07-03T23:13:54.682617",
+      "word_count": 59,
+      "character_count": 415
+    },
+    "15": {
+      "id": "15",
+      "title": "Renewable Energy Solutions",
+      "content": "Renewable energy sources like solar, wind, and hydroelectric power are becoming increasingly cost-effective and efficient. These technologies offer a sustainable alternative to fossil fuels and are crucial for addressing climate change. Governments and businesses worldwide are investing heavily in renewable energy infrastructure. The transition to clean energy will create new jobs and opportunities while helping to protect our planet for future generations.",
+      "author": "Energy Engineer Dr. Mark Taylor",
+      "category": "Environment",
+      "tags": [
+        "Renewable Energy",
+        "Solar",
+        "Wind",
+        "Sustainability"
+      ],
+      "created_at": "2025-07-03T23:13:54.682621",
+      "word_count": 62,
+      "character_count": 461
+    },
+    "16": {
+      "id": "16",
+      "title": "The Art of Photography",
+      "content": "Photography is a powerful medium for capturing and sharing moments, emotions, and stories. Whether using traditional film or digital cameras, photographers must understand composition, lighting, and timing to create compelling images. Photography has evolved from a purely artistic pursuit to an essential tool for journalism, marketing, and personal expression. The democratization of photography through smartphones has made everyone a potential photographer.",
+      "author": "Professional Photographer Alex Turner",
+      "category": "Arts",
+      "tags": [
+        "Photography",
+        "Art",
+        "Visual",
+        "Creativity"
+      ],
+      "created_at": "2025-07-03T23:13:54.682626",
+      "word_count": 61,
+      "character_count": 461
+    },
+    "17": {
+      "id": "17",
+      "title": "Blockchain Technology Overview",
+      "content": "This is a test document about blockchain technology and cryptocurrency. Bitcoin and Ethereum are leading cryptocurrencies in the digital finance revolution.",
+      "author": "Tech Writer",
+      "category": "Technology",
+      "tags": [
+        "blockchain",
+        "cryptocurrency",
+        "bitcoin",
+        "ethereum"
+      ],
+      "created_at": "2025-07-04T13:23:49.290069",
+      "word_count": 21,
+      "character_count": 156,
+      "basic_stats": {
+        "word_count": 21,
+        "character_count": 156,
+        "character_count_no_spaces": 136,
+        "sentence_count": 2,
+        "average_words_per_sentence": 10.5,
+        "average_characters_per_word": 6.48
+      },
+      "source_file": {
+        "file_type": "txt",
+        "file_size": 156,
+        "processed_from": "base64_content"
+      }
+    },
+    "18": {
+      "id": "18",
+      "title": "Blockchain Technology Overview",
+      "content": "This is a test document about blockchain technology and cryptocurrency. Bitcoin and Ethereum are leading cryptocurrencies in the digital finance revolution.",
+      "author": "Tech Writer",
+      "category": "Technology",
+      "tags": [
+        "blockchain",
+        "cryptocurrency",
+        "bitcoin",
+        "ethereum"
+      ],
+      "created_at": "2025-07-04T13:28:37.172948",
+      "word_count": 21,
+      "character_count": 156,
+      "basic_stats": {
+        "word_count": 21,
+        "character_count": 156,
+        "character_count_no_spaces": 136,
+        "sentence_count": 2,
+        "average_words_per_sentence": 10.5,
+        "average_characters_per_word": 6.48
+      },
+      "source_file": {
+        "file_type": "txt",
+        "file_size": 156,
+        "processed_from": "base64_content"
+      }
+    },
+    "19": {
+      "id": "19",
+      "title": "Blockchain Technology Overview",
+      "content": "This is a test document about blockchain technology and cryptocurrency. Bitcoin and Ethereum are leading cryptocurrencies in the digital finance revolution.",
+      "author": "Tech Writer",
+      "category": "Technology",
+      "tags": [
+        "blockchain",
+        "cryptocurrency",
+        "bitcoin",
+        "ethereum"
+      ],
+      "created_at": "2025-07-04T13:44:22.767023",
+      "word_count": 21,
+      "character_count": 156,
+      "basic_stats": {
+        "word_count": 21,
+        "character_count": 156,
+        "character_count_no_spaces": 136,
+        "sentence_count": 2,
+        "average_words_per_sentence": 10.5,
+        "average_characters_per_word": 6.48
+      },
+      "source_file": {
+        "file_type": "txt",
+        "file_size": 156,
+        "processed_from": "base64_content"
+      }
+    }
+  },
+  "metadata": {
+    "total_documents": 19,
+    "last_updated": "2025-07-04T13:44:22.767037",
+    "next_id": 20
+  }
+}
